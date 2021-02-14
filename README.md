@@ -1,8 +1,4 @@
-# Python-Crash-Course-Projects
-
-These are the following projects that were presented on the book.
-
-### 1. Alien Invasion
+# Alien Invasion
 
 It is a simple game implemented using [python](https://www.python.org/) and [pygame](https://www.pygame.org/).
 
@@ -16,7 +12,7 @@ appears that moves faster than the previous fleet. If any alien hits
 the player’s ship or reaches the bottom of the screen, the player
 loses a ship. If the player loses three ships, the game ends.
 
-#### To run the game, ensure that you have python3 and pygame library installed in your system and follow these steps:
+## To run the game, ensure that you have python3 and pygame library installed in your system and follow these steps
 
 <label> 1. Clone this repositry to your local machine </label>
 
@@ -29,5 +25,3 @@ loses a ship. If the player loses three ships, the game ends.
 <label> 3. Run the game </label>
 
 <pre><code> python3 alien_invasion.py </code></pre>
-
----
