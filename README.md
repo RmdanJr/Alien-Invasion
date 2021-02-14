@@ -12,16 +12,13 @@ appears that moves faster than the previous fleet. If any alien hits
 the player’s ship or reaches the bottom of the screen, the player
 loses a ship. If the player loses three ships, the game ends.
 
-* To run the game, ensure that you have python3 and pygame library installed in your system and follow these steps *
+*To run the game, ensure that you have python3 and pygame library installed in your system and follow these steps*
 
-* Clone this repositry to your local machine </label>
+1. Clone this repositry to your local machine
+  ```git clone https://github.com/Hasssan-Ramadan/Alien-Invasion.git```
 
-``` git clone https://github.com/Hasssan-Ramadan/Python-Crash-Course-Projects.git ```
+2. Navigate to the game folder
+  ```cd path/to/Alien-Invasion/```
 
-* Navigate to the game folder </label>
-
-``` cd path/to/Python-Crash-Course-Projects/Alien-Invasion/ ```
-
-* Run the game </label>
-
-``` python3 alien_invasion.py ```
+3. Run the game
+    ```python3 alien_invasion.py```
