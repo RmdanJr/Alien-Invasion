@@ -15,7 +15,7 @@ loses a ship. If the player loses three ships, the game ends.
 *To run the game, ensure that you have python3 and pygame library installed in your system and follow these steps*
 
 1. Clone this repositry to your local machine
-  ```git clone https://github.com/Hasssan-Ramadan/Alien-Invasion.git```
+  ```git clone https://github.com/RmdanJr/Alien-Invasion.git```
 
 2. Navigate to the game folder
   ```cd path/to/Alien-Invasion/```
